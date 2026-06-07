@@ -316,7 +316,8 @@ git push origin feature/your-feature-name
 | Name | Role |
 |---|---|
 | **Mrs Adetona Oluwafunke Oluwaseun** | Project Lead & Climate Innovation Architect |
-| **Mr Mayowa Ayeni** | Technical Contributor — Electrical & Electronics Engineering |
+| **Mr Adetona Kingsley** | Innovative Lead & Climate Innovation Architect |
+| **Mr Mayowa Ayeni** | Technical Contributor (Web developer) — Electrical & Electronics Engineering |
 | **Climate Smart School Hub Team** | Research, Planning & Development |
 
 ---
